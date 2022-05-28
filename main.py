@@ -68,16 +68,20 @@ assert 1 + 1 == 3
 print(3)'''
 
 #No10
-temp = -10
+''''temp = -10
 assert (temp >= 0), "Colder than absolute zero!"
-print(temp)
+print(temp)'''
 
 #No11
-myfile = open("filename.txt")
+'''myfile = open("filename.txt")'''
 
+'''letters = ['p', 'q', 'r', 's', 'p', 'u']
+letters.remove('q')
+print(letters)'''
 
-
-
-
-
+'''fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+    print(x)
+    if x == "banana":
+        break'''
 
